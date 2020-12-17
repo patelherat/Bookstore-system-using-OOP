@@ -1,6 +1,4 @@
 # Bookstore-system-using-OOP
-
-# Bookstore-system-using-OOP
 Book store maintains an inventory of books. The store tracks the title and author of each book, plus the book's media. The media is one of hardcover(cloth or leather), paperback, and audio books.
 
 <br/>
